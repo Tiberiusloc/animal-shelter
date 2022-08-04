@@ -1,0 +1,13 @@
+.pictures {
+  float: right;
+  width: 400px;
+}
+
+.pictures img {
+  width:200px;
+  border: 2px solid black;
+}
+
+img {
+  border: 5px solid hotpink;
+}
