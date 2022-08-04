@@ -11,3 +11,20 @@
 img {
   border: 5px solid hotpink;
 }
+
+#main{
+  color:red;
+}
+
+#header{
+  background-color: pink;
+}
+
+#navbar{
+  background-color: purple;
+}
+
+#navbar a{
+  color: paleturquoise;
+  font-size: 2em;
+}
